@@ -6,3 +6,5 @@
   - 신규 방문자 중 구매 고객의 특성을 파악하여 전환율을 높이는 방법을 모색
 2. 구매 고객 전환율 최적화
   - 전체 퍼널 분석을 통해 고객 유입부터 구매까지의 흐름을 최적화
+
+data: https://www.kaggle.com/code/rubenman/maven-fuzzy-factory
