@@ -8,3 +8,5 @@
   - 전체 퍼널 분석을 통해 고객 유입부터 구매까지의 흐름을 최적화
 
 data: https://www.kaggle.com/code/rubenman/maven-fuzzy-factory
+
+<img width="459" alt="Image" src="https://github.com/user-attachments/assets/da4f3659-6498-451f-8c2c-7a78e2876bf5" />
